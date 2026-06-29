@@ -193,7 +193,7 @@ ges_boutique/
 
 ## 👨‍💻 Auteur
 
-**Hugues Djouassoum**  
+**DJOUASSOUM MEMADJI HUGUES**  
 Étudiant en Génie Informatique L2  
 CEFOD Business School — N'Djaména, Tchad  
 Année académique 2025-2026
