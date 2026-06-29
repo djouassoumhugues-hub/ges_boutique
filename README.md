@@ -22,16 +22,15 @@ Le système permet à l'administrateur (Monsieur Ali) de :
 
 ## 🚀 Technologies utilisées
 
-| Technologie | Version | Rôle |
-|-------------|---------|------|
-| PHP | 8.2.12 | Langage serveur |
-| Laravel | 12.x | Framework PHP (MVC) |
-| MySQL / MariaDB | 10.4.32 | Base de données |
-| Bootstrap | 5.3 | Framework CSS |
-| barryvdh/laravel-dompdf | latest | Génération PDF |
-| Blade | — | Moteur de templates Laravel |
 
----
+| Technologie | Version          |
+| ----------- | ---------------- |
+| PHP         | 8.3              |
+| Laravel     | 13               |
+| MySQL       | 8+               |
+| Bootstrap   | 5                |
+| Blade       | Laravel          |
+| DomPDF      | Dernière version |
 
 ## 🗂️ Fonctionnalités
 
